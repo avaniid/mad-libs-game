@@ -34,6 +34,7 @@ printf("Here is your story:\n");
 printf("Once I had a dream about a %s %s who lived in %s.\n",adjective1,noun1,place);
 printf("Every day I would %s with my %s %s in the %s.\n",verb,adjective1,noun1,place);
 printf("One day we came across a %s %s. \n",adjective2,noun2);
-printf("It was a %sest adventure of my life!\n",adjective3);
+printf("It was the most  %s adventure of my life!\n",adjective3);
 return 0;
 }
+
